@@ -40,7 +40,7 @@ const Home = () => {
             description: 'Product Designer',
             address: 'Mumbai, India',
             coordinates: { lat: 19.0760, lng: 72.8777 },
-            image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg'
+            image: 'https://randomuser.me/api/portraits/men/19.jpg'
           },
           {
             id: 3,

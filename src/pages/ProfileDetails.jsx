@@ -32,7 +32,7 @@ const ProfileDetails = () => {
         description: "Data Scientist",
         address: "Mumbai, India",
         coordinates: { lat: 19.0760, lng: 72.8777 },
-        image: "https://via.placeholder.com/150",
+        image: "https://randomuser.me/api/portraits/men/19.jpg",
         email: "jane.smith@example.com",
         phone: "+91 9876543210",
         interests: ["AI", "Machine Learning", "Reading"],
