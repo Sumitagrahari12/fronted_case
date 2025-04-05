@@ -44,7 +44,7 @@ const ProfileDetails = () => {
         description: "Product Manager",
         address: "Bangalore, India",
         coordinates: { lat: 12.9716, lng: 77.5946 },
-        image: "https://via.placeholder.com/150",
+        image: "https://randomuser.me/api/portraits/men/7.jpg",
         email: "alice.johnson@example.com",
         phone: "+91 8765432109",
         interests: ["Business", "Innovation", "Marketing"],
